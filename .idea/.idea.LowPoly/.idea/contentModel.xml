@@ -1,0 +1,462 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Tiger\AppData\Local\JetBrains\Rider2020.2\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Tiger\AppData\Local\JetBrains\Rider2020.2\resharper-host\Local\Transient\Rider\v202\SolutionCaches\_LowPoly.2147461145.00" t="ExcludeRecursive" />
+    <e p="H:\Games\LowPoly" t="IncludeRecursive">
+      <e p="Assembly-CSharp-Editor.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Assets" t="Include">
+          <e p="Animations" t="Include">
+            <e p="ExplosiveLLC" t="Include">
+              <e p="RPG Character Mecanim Animation Pack FREE" t="Include">
+                <e p="Code" t="Include">
+                  <e p="Actions" t="Include">
+                    <e p="ActionHandler.cs" t="Include" />
+                    <e p="Character" t="Include">
+                      <e p="Attack.cs" t="Include" />
+                      <e p="SlowTime.cs" t="Include" />
+                    </e>
+                    <e p="InstantActionHandler.cs" t="Include" />
+                    <e p="Movement" t="Include">
+                      <e p="DiveRoll.cs" t="Include" />
+                      <e p="Fall.cs" t="Include" />
+                      <e p="GetHit.cs" t="Include" />
+                      <e p="Idle.cs" t="Include" />
+                      <e p="Jump.cs" t="Include" />
+                      <e p="Knockback.cs" t="Include" />
+                      <e p="Move.cs" t="Include" />
+                      <e p="MovementActionHandler.cs" t="Include" />
+                      <e p="Navigation.cs" t="Include" />
+                    </e>
+                    <e p="Null.cs" t="Include" />
+                    <e p="SimpleActionHandler.cs" t="Include" />
+                    <e p="Weapon" t="Include">
+                      <e p="SwitchWeapon.cs" t="Include" />
+                    </e>
+                  </e>
+                  <e p="AnimationData.cs" t="Include" />
+                  <e p="CoroutineQueue.cs" t="Include" />
+                  <e p="IKHands.cs" t="Include" />
+                  <e p="RPGCharacterAnimatorEvents.cs" t="Include" />
+                  <e p="RPGCharacterController.cs" t="Include" />
+                  <e p="RPGCharacterInputController.cs" t="Include" />
+                  <e p="RPGCharacterMovementController.cs" t="Include" />
+                  <e p="RPGCharacterNavigationController.cs" t="Include" />
+                  <e p="RPGCharacterWeaponController.cs" t="Include" />
+                </e>
+              </e>
+              <e p="SuperCharacterController" t="Include">
+                <e p="Code" t="Include">
+                  <e p="Gravity.cs" t="Include" />
+                  <e p="PlayerCamera.cs" t="Include" />
+                  <e p="PlayerInputController.cs" t="Include" />
+                  <e p="PlayerMachine.cs" t="Include" />
+                  <e p="PlayerMachineDebug.cs" t="Include" />
+                  <e p="SimpleStateMachine.cs" t="Include" />
+                </e>
+                <e p="SuperCharacterController" t="Include">
+                  <e p="Core" t="Include">
+                    <e p="BruteForceMesh.cs" t="Include" />
+                    <e p="BSPTree.cs" t="Include" />
+                    <e p="SuperCharacterController.cs" t="Include" />
+                    <e p="SuperCollider.cs" t="Include" />
+                    <e p="SuperCollisionType.cs" t="Include" />
+                    <e p="SuperMath.cs" t="Include" />
+                    <e p="SuperStateMachine.cs" t="Include" />
+                  </e>
+                  <e p="DebugDraw.cs" t="Include" />
+                  <e p="Math3d.cs" t="Include" />
+                  <e p="README.txt" t="Include" />
+                </e>
+              </e>
+            </e>
+            <e p="Fighter Pack Bundle" t="Include">
+              <e p="_www.unityassetcollection.com.txt" t="Include" />
+              <e p="Heavy Fighter Mecanim Animation Pack" t="Include">
+                <e p="Code" t="Include">
+                  <e p="CameraControl.cs" t="Include" />
+                  <e p="FighterAnimationDemo.cs" t="Include" />
+                </e>
+              </e>
+            </e>
+            <e p="MoveMotionPack" t="Include">
+              <e p="SampleScene" t="Include">
+                <e p="Scripts" t="Include">
+                  <e p="PlayManager.cs" t="Include" />
+                </e>
+                <e p="Shaders" t="Include">
+                  <e p="DiffuseReflectiveShader.shader" t="Include" />
+                  <e p="ReflectiveDiffuseSpec.shader" t="Include" />
+                  <e p="ReflectiveDiffuseSpecTransp.shader" t="Include" />
+                </e>
+              </e>
+            </e>
+          </e>
+          <e p="Charachters" t="Include">
+            <e p="Lowpoly Medieval Characters" t="Include">
+              <e p="Sources" t="Include">
+                <e p="Scripts" t="Include">
+                  <e p="Editor" t="Include">
+                    <e p="PT_Create_Prefab_Editor.cs" t="Include" />
+                  </e>
+                  <e p="PT_Create_Prefab.cs" t="Include" />
+                </e>
+                <e p="Shaders" t="Include">
+                  <e p="PT_Medieval_Armors_Shader_PBR.shader" t="Include" />
+                  <e p="PT_Medieval_Armors_Shader_Toon.shader" t="Include" />
+                </e>
+              </e>
+            </e>
+            <e p="Lowpoly Medieval Weapons" t="Include">
+              <e p="Sources" t="Include">
+                <e p="Shaders" t="Include">
+                  <e p="PT_Medieval_Weapons_Shader_PBR.shader" t="Include" />
+                  <e p="PT_Medieval_Weapons_Shader_Toon.shader" t="Include" />
+                </e>
+              </e>
+            </e>
+            <e p="Medieval Enemies Pack" t="Include">
+              <e p="Boss 2 Enemy" t="Include">
+                <e p="Model" t="Include">
+                  <e p="Boss2.txt" t="Include" />
+                </e>
+              </e>
+              <e p="BossEnemy_01" t="Include">
+                <e p="Model" t="Include">
+                  <e p="BossEnemy_01.txt" t="Include" />
+                </e>
+              </e>
+              <e p="Flame Thrower Enemy" t="Include">
+                <e p="Mobile-Bumped_DoubleSided.shader" t="Include" />
+                <e p="Model" t="Include">
+                  <e p="Flame Thrower.txt" t="Include" />
+                </e>
+              </e>
+              <e p="Golem" t="Include">
+                <e p="Model" t="Include">
+                  <e p="Golem.txt" t="Include" />
+                </e>
+              </e>
+              <e p="Hammer Enemy" t="Include">
+                <e p="Model" t="Include">
+                  <e p="HammerEnemy.txt" t="Include" />
+                </e>
+              </e>
+              <e p="Medieval Barrel Enemy" t="Include">
+                <e p="Model" t="Include">
+                  <e p="BarrelEnemy.txt" t="Include" />
+                </e>
+              </e>
+              <e p="Medieval Cannon Enemy" t="Include">
+                <e p="Model" t="Include">
+                  <e p="CannonEnemy.txt" t="Include" />
+                </e>
+              </e>
+              <e p="Medieval Normal Enemy" t="Include">
+                <e p="Model" t="Include">
+                  <e p="NormalEnemy.txt" t="Include" />
+                </e>
+              </e>
+              <e p="Medieval Shield Enemy" t="Include">
+                <e p="Model" t="Include">
+                  <e p="ShieldEnemy.txt" t="Include" />
+                </e>
+              </e>
+              <e p="Steampunk Crawler" t="Include">
+                <e p="Model" t="Include">
+                  <e p="Steampunk Crawler.txt" t="Include" />
+                </e>
+              </e>
+              <e p="Zeppelin_01" t="Include">
+                <e p="Model" t="Include">
+                  <e p="Zeppelin_01.txt" t="Include" />
+                  <e p="Zeppelin_01LP.txt" t="Include" />
+                </e>
+              </e>
+              <e p="Zeppelin_02" t="Include">
+                <e p="Model" t="Include">
+                  <e p="Zeppelin.txt" t="Include" />
+                </e>
+              </e>
+              <e p="Zeppelin_03" t="Include">
+                <e p="Model" t="Include">
+                  <e p="Zeppelin_03.txt" t="Include" />
+                </e>
+              </e>
+            </e>
+          </e>
+          <e p="Enviroment" t="Include">
+            <e p="BrokenVector" t="Include">
+              <e p="LowPolyTreePack" t="Include">
+                <e p="README.txt" t="Include" />
+              </e>
+            </e>
+            <e p="Lowpoly Medieval Environments" t="Include">
+              <e p="Sources" t="Include">
+                <e p="Shaders" t="Include">
+                  <e p="PT_Rock_Shader.shader" t="Include" />
+                  <e p="PT_Vegetation_Flowers_Shader.shader" t="Include" />
+                  <e p="PT_Vegetation_Foliage_Shader.shader" t="Include" />
+                  <e p="PT_Vegetation_Opaque_Shader.shader" t="Include" />
+                  <e p="PT_Vegetation_Plants_Shader.shader" t="Include" />
+                </e>
+              </e>
+            </e>
+            <e p="LowpolyDungeonAssets" t="Include">
+              <e p="Demo Scene" t="Include">
+                <e p="PostProcessing" t="Include">
+                  <e p="Editor Resources" t="Include">
+                    <e p="Monitors" t="Include">
+                      <e p="HistogramCompute.compute" t="Include" />
+                      <e p="HistogramRender.shader" t="Include" />
+                      <e p="ParadeRender.shader" t="Include" />
+                      <e p="VectorscopeCompute.compute" t="Include" />
+                      <e p="VectorscopeRender.shader" t="Include" />
+                      <e p="WaveformCompute.compute" t="Include" />
+                      <e p="WaveformRender.shader" t="Include" />
+                    </e>
+                    <e p="UI" t="Include">
+                      <e p="CurveBackground.shader" t="Include" />
+                      <e p="Trackball.shader" t="Include" />
+                    </e>
+                  </e>
+                  <e p="Resources" t="Include">
+                    <e p="Bluenoise64" t="Include">
+                      <e p="COPYING.txt" t="Include" />
+                      <e p="LICENSE.txt" t="Include" />
+                    </e>
+                    <e p="Shaders" t="Include">
+                      <e p="ACES.cginc" t="Include" />
+                      <e p="AmbientOcclusion.cginc" t="Include" />
+                      <e p="AmbientOcclusion.shader" t="Include" />
+                      <e p="Blit.shader" t="Include" />
+                      <e p="Bloom.cginc" t="Include" />
+                      <e p="Bloom.shader" t="Include" />
+                      <e p="BuiltinDebugViews.shader" t="Include" />
+                      <e p="ColorGrading.cginc" t="Include" />
+                      <e p="Common.cginc" t="Include" />
+                      <e p="DepthOfField.cginc" t="Include" />
+                      <e p="DepthOfField.shader" t="Include" />
+                      <e p="DiskKernels.cginc" t="Include" />
+                      <e p="EyeAdaptation.cginc" t="Include" />
+                      <e p="EyeAdaptation.shader" t="Include" />
+                      <e p="EyeHistogram.compute" t="Include" />
+                      <e p="Fog.shader" t="Include" />
+                      <e p="FXAA.shader" t="Include" />
+                      <e p="FXAA3.cginc" t="Include" />
+                      <e p="GrainGen.shader" t="Include" />
+                      <e p="LutGen.shader" t="Include" />
+                      <e p="MotionBlur.cginc" t="Include" />
+                      <e p="MotionBlur.shader" t="Include" />
+                      <e p="ScreenSpaceRaytrace.cginc" t="Include" />
+                      <e p="ScreenSpaceReflection.shader" t="Include" />
+                      <e p="TAA.cginc" t="Include" />
+                      <e p="TAA.shader" t="Include" />
+                      <e p="Tonemapping.cginc" t="Include" />
+                      <e p="Uber.shader" t="Include" />
+                      <e p="UberSecondPass.cginc" t="Include" />
+                    </e>
+                  </e>
+                  <e p="Runtime" t="Include">
+                    <e p="Attributes" t="Include">
+                      <e p="GetSetAttribute.cs" t="Include" />
+                      <e p="MinAttribute.cs" t="Include" />
+                      <e p="TrackballAttribute.cs" t="Include" />
+                      <e p="TrackballGroupAttribute.cs" t="Include" />
+                    </e>
+                    <e p="Components" t="Include">
+                      <e p="AmbientOcclusionComponent.cs" t="Include" />
+                      <e p="BloomComponent.cs" t="Include" />
+                      <e p="BuiltinDebugViewsComponent.cs" t="Include" />
+                      <e p="ChromaticAberrationComponent.cs" t="Include" />
+                      <e p="ColorGradingComponent.cs" t="Include" />
+                      <e p="DepthOfFieldComponent.cs" t="Include" />
+                      <e p="DitheringComponent.cs" t="Include" />
+                      <e p="EyeAdaptationComponent.cs" t="Include" />
+                      <e p="FogComponent.cs" t="Include" />
+                      <e p="FxaaComponent.cs" t="Include" />
+                      <e p="GrainComponent.cs" t="Include" />
+                      <e p="MotionBlurComponent.cs" t="Include" />
+                      <e p="ScreenSpaceReflectionComponent.cs" t="Include" />
+                      <e p="TaaComponent.cs" t="Include" />
+                      <e p="UserLutComponent.cs" t="Include" />
+                      <e p="VignetteComponent.cs" t="Include" />
+                    </e>
+                    <e p="Models" t="Include">
+                      <e p="AmbientOcclusionModel.cs" t="Include" />
+                      <e p="AntialiasingModel.cs" t="Include" />
+                      <e p="BloomModel.cs" t="Include" />
+                      <e p="BuiltinDebugViewsModel.cs" t="Include" />
+                      <e p="ChromaticAberrationModel.cs" t="Include" />
+                      <e p="ColorGradingModel.cs" t="Include" />
+                      <e p="DepthOfFieldModel.cs" t="Include" />
+                      <e p="DitheringModel.cs" t="Include" />
+                      <e p="EyeAdaptationModel.cs" t="Include" />
+                      <e p="FogModel.cs" t="Include" />
+                      <e p="GrainModel.cs" t="Include" />
+                      <e p="MotionBlurModel.cs" t="Include" />
+                      <e p="ScreenSpaceReflectionModel.cs" t="Include" />
+                      <e p="UserLutModel.cs" t="Include" />
+                      <e p="VignetteModel.cs" t="Include" />
+                    </e>
+                    <e p="PostProcessingBehaviour.cs" t="Include" />
+                    <e p="PostProcessingComponent.cs" t="Include" />
+                    <e p="PostProcessingContext.cs" t="Include" />
+                    <e p="PostProcessingModel.cs" t="Include" />
+                    <e p="PostProcessingProfile.cs" t="Include" />
+                    <e p="Utils" t="Include">
+                      <e p="ColorGradingCurve.cs" t="Include" />
+                      <e p="GraphicsUtils.cs" t="Include" />
+                      <e p="MaterialFactory.cs" t="Include" />
+                      <e p="RenderTextureFactory.cs" t="Include" />
+                    </e>
+                  </e>
+                  <e p="Utilities" t="Include">
+                    <e p="CustomMotionTexture" t="Include">
+                      <e p="ExampleWheelController.cs" t="Include" />
+                      <e p="Shaders" t="Include">
+                        <e p="CustomMotionVectorTexture.shader" t="Include" />
+                      </e>
+                    </e>
+                  </e>
+                </e>
+              </e>
+            </e>
+            <e p="SimpleLowPolyNature" t="Include">
+              <e p="README.txt" t="Include" />
+              <e p="Shaders" t="Include">
+                <e p="SimpleWater.shader" t="Include" />
+              </e>
+            </e>
+          </e>
+        </e>
+        <e p="CodeBase" t="Include">
+          <e p="CameraLogic" t="Include">
+            <e p="CameraRoot.cs" t="Include" />
+          </e>
+          <e p="Constants.cs" t="Include" />
+          <e p="Data" t="Include">
+            <e p="DataExtensions.cs" t="Include" />
+            <e p="KillData.cs" t="Include" />
+            <e p="PlayerProgress.cs" t="Include" />
+            <e p="PositionOnLevel.cs" t="Include" />
+            <e p="State.cs" t="Include" />
+            <e p="Stats.cs" t="Include" />
+            <e p="Vector3Data.cs" t="Include" />
+            <e p="WorldData.cs" t="Include" />
+          </e>
+          <e p="Editor" t="Include">
+            <e p="LevelStaticDataEditor.cs" t="Include" />
+            <e p="SpawnerMarkerEditor.cs" t="Include" />
+            <e p="Tools.cs" t="Include" />
+            <e p="UniqueIdEditor.cs" t="Include" />
+          </e>
+          <e p="Enemy" t="Include">
+            <e p="AgentMoveToPlayer.cs" t="Include" />
+            <e p="Aggro.cs" t="Include" />
+            <e p="AnimateAlongAgent.cs" t="Include" />
+            <e p="Attack.cs" t="Include" />
+            <e p="CheckAttackRange.cs" t="Include" />
+            <e p="EnemyAnimator.cs" t="Include" />
+            <e p="EnemyDeath.cs" t="Include" />
+            <e p="EnemyHealth.cs" t="Include" />
+            <e p="Follow.cs" t="Include" />
+            <e p="PhysicsDebug.cs" t="Include" />
+            <e p="RotateToHero.cs" t="Include" />
+            <e p="SpecialAttack.cs" t="Include" />
+            <e p="TriggerObserver.cs" t="Include" />
+          </e>
+          <e p="Hero" t="Include">
+            <e p="HeroAnimator.cs" t="Include" />
+            <e p="HeroAttack.cs" t="Include" />
+            <e p="HeroDeath.cs" t="Include" />
+            <e p="HeroHealth.cs" t="Include" />
+            <e p="HeroMove.cs" t="Include" />
+            <e p="Sound.cs" t="Include" />
+          </e>
+          <e p="Infrastructure" t="Include">
+            <e p="AssetManagement" t="Include">
+              <e p="AssetPath.cs" t="Include" />
+              <e p="AssetProvider.cs" t="Include" />
+              <e p="IAssetProvider.cs" t="Include" />
+            </e>
+            <e p="Factory" t="Include">
+              <e p="GameFactory.cs" t="Include" />
+              <e p="IGameFactory.cs" t="Include" />
+            </e>
+            <e p="Game.cs" t="Include" />
+            <e p="GameBootstrapper.cs" t="Include" />
+            <e p="GameRunner.cs" t="Include" />
+            <e p="ICoroutineRunner.cs" t="Include" />
+            <e p="SceneLoader.cs" t="Include" />
+            <e p="Services" t="Include">
+              <e p="AllServices.cs" t="Include" />
+              <e p="Input" t="Include">
+                <e p="InputController.cs" t="Include" />
+              </e>
+              <e p="IService.cs" t="Include" />
+              <e p="PersistentProgress" t="Include">
+                <e p="IPersistentProgressService.cs" t="Include" />
+                <e p="ISavedProgress.cs" t="Include" />
+                <e p="ISavedProgressReader.cs" t="Include" />
+                <e p="PersistentProgressService.cs" t="Include" />
+              </e>
+              <e p="SaveLoad" t="Include">
+                <e p="ISaveLoadService.cs" t="Include" />
+                <e p="SaveLoadService.cs" t="Include" />
+              </e>
+              <e p="StaticData" t="Include">
+                <e p="IStaticDataService.cs" t="Include" />
+                <e p="StaticDataService.cs" t="Include" />
+              </e>
+            </e>
+            <e p="States" t="Include">
+              <e p="BootstrapState.cs" t="Include" />
+              <e p="GameLoopState.cs" t="Include" />
+              <e p="GameStateMachine.cs" t="Include" />
+              <e p="IGameStateMachine.cs" t="Include" />
+              <e p="IState.cs" t="Include" />
+              <e p="LoadLevelState.cs" t="Include" />
+              <e p="LoadProgressState.cs" t="Include" />
+            </e>
+          </e>
+          <e p="Logic" t="Include">
+            <e p="AnimatorState.cs" t="Include" />
+            <e p="AnimatorStateReporter.cs" t="Include" />
+            <e p="EnemySpawners" t="Include">
+              <e p="SpawnMarker.cs" t="Include" />
+              <e p="SpawnPoint.cs" t="Include" />
+            </e>
+            <e p="IAnimationStateReader.cs" t="Include" />
+            <e p="IHealth.cs" t="Include" />
+            <e p="LevelTransferTrigger.cs" t="Include" />
+            <e p="LoadingCurtain.cs" t="Include" />
+            <e p="SaveTrigger.cs" t="Include" />
+            <e p="UniqueId.cs" t="Include" />
+          </e>
+          <e p="StaticData" t="Include">
+            <e p="EnemySpawnerData.cs" t="Include" />
+            <e p="LevelStaticData.cs" t="Include" />
+            <e p="MonsterStaticData.cs" t="Include" />
+            <e p="MonsterTypeId.cs" t="Include" />
+          </e>
+          <e p="UI" t="Include">
+            <e p="Elements" t="Include">
+              <e p="ActorUI.cs" t="Include" />
+              <e p="HpBar.cs" t="Include" />
+              <e p="LookAtCamera.cs" t="Include" />
+            </e>
+            <e p="MenuWindow.cs" t="Include" />
+            <e p="WindowBase.cs" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="LowPoly.sln" t="IncludeFlat" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Temp\bin" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>

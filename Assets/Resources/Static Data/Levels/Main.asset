@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4012ad442c924398a060ece4cb024953, type: 3}
+  m_Name: Main
+  m_EditorClassIdentifier: 
+  LevelKey: Main
+  EnemySpawners:
+  - Id: Main_4c116b91-8134-4633-94d0-2ea651052c5f
+    MonsterTypeId: 0
+    Position: {x: 49.36, y: 0.77, z: -2.47}
+  - Id: Main_219d406c-7c44-4502-8a47-a49ab8e9ea28
+    MonsterTypeId: 0
+    Position: {x: 57.47, y: 0.77, z: -5.7}
+  - Id: Main_7113539f-0134-44ca-b231-36d6eef83933
+    MonsterTypeId: 0
+    Position: {x: 49.36, y: 0.77, z: -12.4}
+  - Id: Main_d9b7917b-adaa-413f-b133-a881859073ed
+    MonsterTypeId: 10
+    Position: {x: 9.43, y: 1.04, z: 39.743}
+  - Id: Main_c9b0baf4-7a1e-46fb-b313-2967fd37670a
+    MonsterTypeId: 20
+    Position: {x: 2.6163354, y: 1.14, z: -7.5785823}
+  InitialHeroPosition: {x: 43.3, y: 1.411, z: -20.94}

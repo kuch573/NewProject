@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1a4eff0b0b5042eaa11773c79a33695b, type: 3}
+  m_Name: Armour
+  m_EditorClassIdentifier: 
+  MonsterTypeId: 20
+  Hp: 15
+  Damage: 15
+  EffectiveDistance: 2.1
+  Cleavage: 3
+  MoveSpeed: 1.29
+  Prefab: {fileID: 6858699504819934732, guid: 41e57d38931e4d4479e4496783bffb8b, type: 3}
